@@ -201,4 +201,4 @@ This repository serves as the official landing page for Hide My IP. The software
 **Get the most recent version of Hide My IP today!**
 
 ---
-**Last updated:** 2026-11-12 17:48:33 UTC
+**Last updated:** 2026-11-12 23:00:42 UTC
